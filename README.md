@@ -29,9 +29,9 @@ The closer a layer is to the viewer, the faster it appears to move, while the la
 
 ## Demo
 
-A live demo of the Parallax Effect can be accessed [here](https://example.com/parallax-effect-demo).
+A live demo of the Parallax Effect can be accessed [here](https://codepen.io/abdul-1432/pen/MWzzRrv).
 
-![Demo Screenshot](demo-screenshot.png)
+![1](https://github.com/abdul-1432/Parallax_Effect-1/assets/124916666/9bb2f80e-8ea8-44c1-9a5f-78da2df8a540)
 
 ## Installation
 
