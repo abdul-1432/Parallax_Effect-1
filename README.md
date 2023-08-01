@@ -41,7 +41,7 @@ To use the Parallax Effect in your project, you have several options:
 
 2. **CDN**: Include the Parallax Effect directly in your HTML file using a CDN link.
 
-```html
+```HTML
 <!-- CSS -->
 <link rel="stylesheet" href="https://cdn.example.com/parallax-effect.min.css">
 
@@ -57,7 +57,7 @@ To apply the Parallax Effect to your web page, follow these steps:
 
 2. Structure your HTML code with different layers of content that you want to apply the parallax effect to. For example:
 
-```html
+```HTML
 <div class="parallax-layer layer1">
   <!-- Your content here -->
 </div>
