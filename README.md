@@ -91,10 +91,10 @@ parallax.init();
 
 Here are some of the common customization options:
 
-- `layerXSpeed`: Sets the scrolling speed of the Xth layer (0.1 to 1, where 1 is the fastest).
-- `layerYSpeed`: Sets the scrolling speed of the Yth layer (0.1 to 1, where 1 is the fastest).
-- `reverseX`: Reverses the X-axis movement of the layer (true/false).
-- `reverseY`: Reverses the Y-axis movement of the layer (true/false).
+- `layer speed`: Sets the scrolling speed of the Xth layer (0.1 to 1, where 1 is the fastest).
+- `layer speed`: Sets the scrolling speed of the Yth layer (0.1 to 1, where 1 is the fastest).
+- `reverse`: Reverses the X-axis movement of the layer (true/false).
+- `reverse`: Reverses the Y-axis movement of the layer (true/false).
 
 ## Browser Support
 
