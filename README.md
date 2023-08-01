@@ -74,7 +74,7 @@ const parallax = new ParallaxEffect();
 parallax.init();
 ```
 
-4. Customize the parallax effect according to your preferences (see the [Customization](#customization).
+4. Customize the parallax effect according to your preferences see the [Customization](#customization).
 
 ## Customization
 
