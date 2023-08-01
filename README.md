@@ -93,8 +93,8 @@ Here are some of the common customization options:
 
 - `layer speed`: Sets the scrolling speed of the Xth layer (0.1 to 1, where 1 is the fastest).
 - `layer speed`: Sets the scrolling speed of the Yth layer (0.1 to 1, where 1 is the fastest).
-- `reverse`: Reverses the X-axis movement of the layer (true/false).
-- `reverse`: Reverses the Y-axis movement of the layer (true/false).
+- `Reverse`: Reverses the X-axis movement of the layer (true/false).
+- `Reverse`: Reverses the Y-axis movement of the layer (true/false).
 
 ## Browser Support
 
@@ -112,8 +112,15 @@ Contributions to the Parallax Effect project are always welcome! If you find a b
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code as per the terms of the license.
+Copyright (c) 2023 by Mohammad Abdul Gafoor (https://codepen.io/abdul-1432/pen/MWzzRrv)
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
 
 ---
 
-Thank you for using the Parallax Effect! If you have any questions or need further assistance, please don't hesitate to contact us or open an issue on the GitHub repository. Happy parallaxing!
+Thank you for using the Parallax Effect! If you have any questions or need further assistance, please don't hesitate to contact us or open an issue on the GitHub repository. Happy parallax!
