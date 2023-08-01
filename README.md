@@ -43,10 +43,10 @@ To use the Parallax Effect in your project, you have several options:
 
 ```HTML
 <!-- CSS -->
-<link rel="stylesheet" href="https://cdn.example.com/parallax-effect.min.css">
+<link rel="stylesheet" href="https://cdn.CSS.com/parallax-effect.min.css">
 
 <!-- JavaScript -->
-<script src="https://cdn.example.com/parallax-effect.min.js"></script>
+<script src="https://cdn.Javascript.com/parallax-effect.min.js"></script>
 ```
 
 ## Usage
@@ -74,7 +74,7 @@ const parallax = new ParallaxEffect();
 parallax.init();
 ```
 
-4. Customize the parallax effect according to your preferences (see the [Customization](#customization) section).
+4. Customize the parallax effect according to your preferences (see the [Customization](#customization).
 
 ## Customization
 
